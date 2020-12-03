@@ -40,6 +40,8 @@ In the wild
 ===
 This is a very incomplete list of places where Tuna.js is used.
 
+https://sono.ly - Sono.ly is a collection of instruments you can play with your keyboard and mouse and livestream to anyone.
+
 http://www.jamwithchrome.com/ - Jam With Chrome allows you to jam online with your mates across the globe using an assortment of instruments and effects. There's even a mode for dummies!
 
 https://github.com/selfrefactor/tuna-player - A React.js/Electron wrapper around Tuna.js!
